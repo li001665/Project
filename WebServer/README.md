@@ -2,9 +2,9 @@ test machine: kh1250-03
 
 date: 12/13/2020
 
-name: Jianhua Li, Qiyu Tian, Zhicheng Zhou
+name: Jianhua Li, Qiyu Tian
 
-x500: li001665@umn.edu(Li), tian0068@umn.edu(Tian), zhou1683@umn.edu(Zhou)
+x500: li001665@umn.edu(Li), tian0068@umn.edu(Tian)
 
 
 # Complie
@@ -32,18 +32,5 @@ no self-created function.
 We use socket programming to get request and information from the client to the server and return back to the client.
 
 Also, we make sure that all the implementations are thread-safe.   
-
-
-#No extra credit implementation
-
-
-# Contributions
-
-return_error and return_result function: Jianhua Li
-
-error handling and comment: Qiyu Tian
-
-check: Zhicheng Zhou
-
 
 
