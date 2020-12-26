@@ -25,7 +25,7 @@ open another terminal and input: wget http:IP: 9000(1025-65535)/file path in tes
 
 # Program
 
-Our program use dispatcher threads to get the requests of the client and place them in a queue, and place them in a queue. Then we use worker threads to retrieve requests from the queue and send it back to the client.
+Our program use dispatcher threads to get the requests of the client and place them in a queue. Then we use worker threads to retrieve requests from the queue and send it back to the client.
 
 no self-created function.
 
